@@ -1,0 +1,23 @@
+// app global css in SCSS form
+@font-face {
+    font-family: caveat;
+    src: url(./fonts/Caveat-VariableFont_wght.ttf);
+  }
+
+  .text-caveat {
+    font-family: 'caveat';
+  }
+
+  .text-primario {
+    color: #3F454A;
+  }
+
+  //secundario 
+  @font-face {
+    font-family: opensans;
+    src: url(./fonts/OpenSans-VariableFont_wdth,wght.ttf);
+  }
+
+  .text-opensans {
+    font-family: 'opensans';
+  }
